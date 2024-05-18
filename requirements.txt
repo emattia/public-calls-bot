@@ -1,0 +1,7 @@
+slack_bolt==1.18.1
+python-dotenv==1.0.1
+ipykernel==6.29.4
+pandas==2.2.2
+pydantic==2.7.1
+beautifulsoup4==4.12.3
+jupyterlab
