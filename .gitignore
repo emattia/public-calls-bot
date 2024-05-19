@@ -1,4 +1,6 @@
 .env
 .ipynb_checkpoints
 whisper.cpp
+llama.cpp
 data
+__pycache__
